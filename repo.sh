@@ -24,18 +24,18 @@ else
 fi
 
 repos=(
-    "https://github.com/edx/course-discovery.git"
-    "https://github.com/edx/credentials.git"
-    "https://github.com/edx/cs_comments_service.git"
-    "https://github.com/edx/ecommerce.git"
-    "https://github.com/edx/edx-e2e-tests.git"
-    "https://github.com/edx/edx-notes-api.git"
-    "https://github.com/edx/edx-platform.git"
-    "https://github.com/edx/xqueue.git"
-    "https://github.com/edx/edx-analytics-pipeline.git"
-    "https://github.com/edx/registrar.git"
-    "https://github.com/edx/frontend-app-gradebook.git"
-    "https://github.com/edx/frontend-app-program-manager.git"
+    "https://github.com/GrupoCATO/course-discovery.git"
+    "https://github.com/GrupoCATO/credentials.git"
+    "https://github.com/GrupoCATO/cs_comments_service.git"
+    "https://github.com/GrupoCATO/ecommerce.git"
+    "https://github.com/GrupoCATO/edx-e2e-tests.git"
+    "https://github.com/GrupoCATO/edx-notes-api.git"
+    "https://github.com/GrupoCATO/edx-platform.git"
+    "https://github.com/GrupoCATO/xqueue.git"
+    "https://github.com/GrupoCATO/edx-analytics-pipeline.git"
+    "https://github.com/GrupoCATO/registrar.git"
+    "https://github.com/GrupoCATO/frontend-app-gradebook.git"
+    "https://github.com/GrupoCATO/frontend-app-program-manager.git"
 )
 
 private_repos=(
